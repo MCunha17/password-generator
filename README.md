@@ -10,7 +10,7 @@ Lastly, I wrote the generated password to the page so that it may now be used. T
 ## Table of Contents
 * <a href="https://github.com/MCunha17/password-generator/blob/main/README.md#screenshot">Link & Screenshot</a>.
 * <a href="https://github.com/MCunha17/password-generator/blob/main/README.md#credits">Credits</a>.
-* <a href="https://github.com/MCunha17/password-generator/blob/main/READMEmd#sources">Sources</a>.
+* <a href="https://github.com/MCunha17/password-generator#sources">Sources</a>.
 
 ## Screenshot
 
