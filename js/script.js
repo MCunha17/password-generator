@@ -19,25 +19,25 @@ function generatePassword () {
     var characters = "";
 
     // Message to include lowercase characters
-    var includeLowercase = confirm("Click 'Okay' if the password should include lowercase characters."); 
+    var includeLowercase = confirm("Click 'Okay' if the password should include lowercase characters. If not, click 'Cancel'."); 
     if (includeLowercase) { 
       characters += lowercaseCharacters;
     }
 
     // Message to include uppercase characters
-    var includeUppercase = confirm("Click 'Okay' if the password should include uppercase characters.");
+    var includeUppercase = confirm("Click 'Okay' if the password should include uppercase characters. If not, click 'Cancel'.");
     if (includeUppercase) {
       characters += upperCaseCharacters;
     }
 
     // Message to include numeric characters
-    var includeNumeric = confirm("Click 'Okay' if the password should include numeric chracters.");
+    var includeNumeric = confirm("Click 'Okay' if the password should include numeric chracters. If not, click 'Cancel'.");
     if (includeNumeric) {
       characters += numericCharacters;
     }
 
     // Message to include special characters
-    var includeSpecial = confirm("Click 'Okay' if the password should include special characters.");
+    var includeSpecial = confirm("Click 'Okay' if the password should include special characters. If not, click 'Cancel'.");
     if (includeSpecial) {
       characters += specialCharacters;
     }
