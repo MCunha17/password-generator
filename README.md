@@ -8,9 +8,9 @@ To create this Password Generator, I used separate arrays to hold the characters
 Lastly, I wrote the generated password to the page so that it may now be used. To generate the password, I used the 'Math.random()' method to randomly select characters based on the criteria that the user has chosen.
 
 ## Table of Contents
-* [Screenshot] (#Screenshot)
-* [Credits] (#Credits)
-* [Sources] (#Sources)
+* <a href="https://github.com/MCunha17/password-generator/blob/main/README.md#screenshot">Link & Screenshot</a>.
+* <a href="https://github.com/MCunha17/password-generator/blob/main/README.md#credits">Credits</a>.
+* <a href="<a href="https://github.com/MCunha17/password-generator/blob/main/READMEmd#sources">Sources</a>.
 
 ## Screenshot
 
